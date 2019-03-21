@@ -1,0 +1,5 @@
+﻿  rngWar3.cpp
+\\trace\class\csc-125\001\tyler0\hws\hw4\rngwar3.cpp(22): warning C4309: 'initializing': truncation of constant value
+\\trace\class\csc-125\001\tyler0\hws\hw4\rngwar3.cpp(23): warning C4309: 'initializing': truncation of constant value
+\\trace\class\csc-125\001\tyler0\hws\hw4\rngwar3.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hwProj.vcxproj -> \\trace\Class\CSC-125\001\Tyler0\hws\hwProj\Debug\hwProj.exe

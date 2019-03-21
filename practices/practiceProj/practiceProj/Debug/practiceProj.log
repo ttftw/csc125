@@ -1,0 +1,3 @@
+﻿  sort.cpp
+\\trace\class\csc-125\001\tyler0\practices\practice12\sort.cpp(20): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  practiceProj.vcxproj -> \\trace\Class\CSC-125\001\Tyler0\practices\practiceProj\Debug\practiceProj.exe

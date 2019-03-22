@@ -1,0 +1,3 @@
+When computing, 
+whatever happens, 
+behave as though you meant it to happen.

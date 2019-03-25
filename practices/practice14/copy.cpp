@@ -23,7 +23,7 @@ using namespace  std;
 int main() {
 	ifstream fin;                       // Create a file object for input
 	ofstream fout;                      // Create a file object for output
-	string   fileLocation  = "C:\\temp\\", inputFileName = "", outputFileName = "";
+	string   fileLocation  = "C:\\temp\\", inputFileName = "", outputFileName = "", aLine = "";
 	 
 	 cout << "\n********************************************************************\n\n";
 	
@@ -58,15 +58,10 @@ int main() {
 	 }
 	 
 	 // Step 3. Read data items from the input file, display them on screen, and write them to the output file 
-	 cout << endl;
-	 for (short i = 1; i <= 3; i++) {
-		 string aLine;
-
-		 getline(fin, aLine);
-		 cout << aLine;
+	 while (getline(fin, aLine)) {
+		 cout << endl << aLine;
 		 fout << aLine << endl;
 	 }
-	 cout << endl;
 
 	 // Step 4. Close the file
 	 fin.close();

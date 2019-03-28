@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\hw4\rngWar3.cpp">
+    <ClCompile Include="..\..\hw5\gradeCalc7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

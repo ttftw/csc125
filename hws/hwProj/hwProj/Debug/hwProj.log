@@ -1,12 +1,2 @@
 ﻿  gradeCalc7.cpp
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(25): warning C4101: 'prePoints': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(26): warning C4101: 'newGPA': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(26): warning C4101: 'preGPA': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(25): warning C4101: 'newPoints': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(25): warning C4101: 'preHours': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(24): warning C4101: 'age': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(26): warning C4101: 'totalGPA': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(25): warning C4101: 'newHours': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(25): warning C4101: 'totalHours': unreferenced local variable
-\\trace\class\csc-125\001\tyler0\hws\hw5\gradecalc7.cpp(25): warning C4101: 'totalPoints': unreferenced local variable
   hwProj.vcxproj -> \\trace\Class\CSC-125\001\Tyler0\hws\hwProj\Debug\hwProj.exe

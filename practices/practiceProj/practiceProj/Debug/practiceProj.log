@@ -1,1 +1,5 @@
-﻿  practiceProj.vcxproj -> \\trace\Class\CSC-125\001\Tyler0\practices\practiceProj\Debug\practiceProj.exe
+﻿  rngWar6.cpp
+\\trace\class\csc-125\001\tyler0\practices\practice19\rngwar6.cpp(11): warning C4309: 'initializing': truncation of constant value
+\\trace\class\csc-125\001\tyler0\practices\practice19\rngwar6.cpp(12): warning C4309: 'initializing': truncation of constant value
+\\trace\class\csc-125\001\tyler0\practices\practice19\rngwar6.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  practiceProj.vcxproj -> \\trace\Class\CSC-125\001\Tyler0\practices\practiceProj\Debug\practiceProj.exe
